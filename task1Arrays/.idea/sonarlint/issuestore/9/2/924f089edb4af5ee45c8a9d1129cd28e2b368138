@@ -1,0 +1,10 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S3518+"BMake sure "indexCounter" can't be zero before doing this division.(êüX8ËŸ¸Õ®0
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8ÏŸ¸Õ®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÇ˜”ùÿÿÿÿ8ĞŸ¸Õ®0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸î“Èÿÿÿÿÿ8ĞŸ¸Õ®0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(½…™Éşÿÿÿÿ8ÑŸ¸Õ®0
